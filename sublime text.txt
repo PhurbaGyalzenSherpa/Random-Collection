@@ -1,0 +1,29 @@
+open folder inside window to manage your project.
+html+tab= simple html structure
+lorem+tab=dummy text
+tagname+tab=gives the sturcture of the whole tag in html
+ctrl key+mouse_pointer_up=increase the text size in sublime text
+placing the cursor on the line and pressing ctrl+shift+D= gives the dublicate of that line
+ctrl+clicking on the required line= helps in creating a multiple cursor which is helpful for editing multiple information.
+pressing escape(esc) key helps in removing the multiple cursor.
+we can also do this by pressing shift key and scrolling down pressing right mouse button.
+ctrl+shift+up arrow =moves any line upward
+ctrl+shift+down arrow=moves any line downward
+ctrl+D is used for selecting and editing particular word in sublime text
+ctrl+shift+k=it is used for deleting a line
+ctrl+k+k= deleting text after the line
+ctrl+/=change anyline into comment
+alt+shift+1=single window #it is very useful for working.
+alt+shift+2=double window and so on
+new view into file is very useful for working at the different section of the same file.
+ctrl+shift+p=open command pallete which is useful for installing packages in sublime
+working with emmet
+-it is very useful for creating child in html. for eg: div>p>h1> in same div 
+-it is very useful for creating a siblings. div+p they comes separately
+-for multiplication. for eg div*10 it creates a 10 div inside the html element for eg ul>li*5
+-li.item- it create a li with class item
+-li#item- it create a li with id item
+-.item - it create a div with the class item
+-#item -it create a div with the id item.
+
+
