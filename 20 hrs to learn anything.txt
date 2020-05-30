@@ -1,14 +1,16 @@
-rule 1: why you wanna learn and how much do you wanna learn.
+Rule(1): Why you wanna learn and how much do you wanna learn.
 
-rule 2: Learn the skills required by dividing it into parts and learn the important one first.
+Rule(2): Learn the skills required by dividing it into parts and learn the important one first.
 
-rule 3:Action produces result not research.So don't waste much time researching apply it which will give result.
+Rule(3): Action produces result not research.So don't waste much time researching apply it which will give result.
 	Trials and error produced quality plus quantity.
 
-rule 4:Remove all barriers and distraction. Avoid Tv mobile and all social media. Learn by sitting alone. 
+Rule(4): Remove all barriers and distraction. Avoid Tv mobile and all social media. Learn by sitting alone. 
 	Make easy and friendly environment for you to learn and work on your skills.
 
-rule 5:Pre commit 20 hrs. We must decide whether that skills is so important that we are gonna be wasting 20 hrs
+Rule(5): Pre commit 20 hrs. We must decide whether that skills is so important that we are gonna be wasting 20 hrs
 	of our life into it. If we study 40 min eachday.If not important then stop about that thing and learn about 
 	something which is important for our carrier. Stop thinkin start doing. You can take rest at the middle. 
 	We can practice our skills before going to bed.
+Rule(6): Keep your self busy by learning new skills.
+Rule(7): Do not rush be patient.
